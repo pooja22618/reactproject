@@ -23,22 +23,22 @@ export default function AppFooter() {
     <Container fluid>
       <div className="copyright">
         {" "}
-        &copy; 2024 Corporate. All Rights Reserved. pooja kumari
+        &copy; ketanpaswan-2024 Corporate. All Rights Reserved.
       </div>
       <div className="socials">
         <ul>
           <li>
-            <a href="https://www.facebook.com">
+            <a href="https://www.facebook.com/share/16nTVig6Zc/">
               <i className="fab fa-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.twitter.com">
+            <a href="https://x.com/mr__perfect_143">
               <i className="fab fa-twitter"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com">
+            <a href="https://www.linkedin.com/in/ketan-anand-358782235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
               <i className="fab fa-linkedin-in"></i>
             </a>
           </li>

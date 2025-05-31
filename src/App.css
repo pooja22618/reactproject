@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: #ad61a7;
+  color: #1120f3;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -79,7 +79,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #ad61a7;
+  color: #1120f3;
 }
 
 ul,
@@ -131,12 +131,12 @@ ul,
 }
 
 .content-block ul li a:hover {
-  color: #ad61a7;
+  color: #1120f3;
 }
 
 .btn.btn-primary {
-  background: #ad61a7;
-  border-color: #ad61a7;
+  background: #1120f3;
+  border-color: #1120f3;
   padding: 13px 35px;
   font-size: 14px;
   line-height: 18px;
@@ -149,8 +149,8 @@ ul,
 .btn.btn-primary:focus,
 .btn.btn-primary:hover {
   background: #fff;
-  border-color: #ad61a7;
-  color: #ad61a7;
+  border-color: #1120f3;
+  color: #1120f3;
 }
 
 .btn.btn-primary .fas {
@@ -284,7 +284,7 @@ textarea {
   width: 35px;
   height: 35px;
   background: #fff;
-  color: #ad61a7;
+  color: #1120f3;
   border-radius: 50%;
   display: block;
   text-align: center;
@@ -294,7 +294,7 @@ textarea {
 }
 
 .socials a:hover {
-  background: #ad61a7;
+  background: #1120f3;
   color: #fff;
 }
 
@@ -313,7 +313,7 @@ textarea {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background: #ad61a7;
+  background: #1120f3;
   border-radius: 3px;
   color: #fff;
   border: 0;
@@ -335,35 +335,35 @@ textarea {
 }
 
 .go-top:hover {
-  background: #ad61a7;
+  background: #1120f3;
 }
 
 .pagination>li.active a {
-  background: #ad61a7;
-  border-color: #ad61a7;
+  background: #1120f3;
+  border-color: #1120f3;
 }
 
 .pagination>li.active a:hover {
-  background: #ad61a7;
-  border-color: #ad61a7;
+  background: #1120f3;
+  border-color: #1120f3;
 }
 
 .pagination>li>a {
-  color: #ad61a7;
+  color: #1120f3;
   transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
   padding: 6px 15px 12px;
 }
 
 .pagination>li>a:hover {
-  background: #ad61a7;
+  background: #1120f3;
   color: #fff;
-  border-color: #ad61a7;
+  border-color: #1120f3;
 }
 
 .pagetitle {
   margin: 80px 0 0;
-  background: #ad61a7;
+  background: #1120f3;
   color: #fff;
   padding: 50px 0;
 }
@@ -395,7 +395,7 @@ textarea {
 }
 
 #header .navbar-brand {
-  color: #ad61a7;
+  color: #1120f3;
   text-transform: uppercase;
   font-weight: 600;
   height: auto;
@@ -425,7 +425,7 @@ textarea {
 #header .navbar-collapse a:hover,
 #header .navbar-collapse a.active {
   background: none;
-  color: #ad61a7;
+  color: #1120f3;
 }
 
 #header .navbar-collapse a:hover:before,
@@ -437,7 +437,7 @@ textarea {
 
 #header .navbar-collapse a:before {
   content: '';
-  background: #ad61a7;
+  background: #1120f3;
   height: 1px;
   position: absolute;
   bottom: 7px;
@@ -449,7 +449,7 @@ textarea {
 }
 
 #footer {
-  background: #ad61a7;
+  background: #1120f3;
   padding: 50px 0;
   color: #fff;
   text-align: center;
@@ -460,7 +460,7 @@ textarea {
 }
 
 #footer .socials a:hover {
-  background: #ad61a7;
+  background: #1120f3;
 }
 
 .block {
@@ -474,7 +474,7 @@ textarea {
 
 .hero-block .carousel-item:before {
   content: '';
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(251, 249, 249, 0.7);
   position: absolute;
   top: 0;
   bottom: 0;
@@ -509,7 +509,7 @@ textarea {
 }
 
 .about-block .progress-bar {
-  background-color: #ad61a7;
+  background-color: #1120f3;
   -webkit-transition: width 0.3s linear;
   transition: width 0.3s linear;
 }
@@ -518,7 +518,7 @@ textarea {
   width: 60px;
   height: 60px;
   font-size: 26px;
-  color: #ad61a7;
+  color: #1120f3;
   margin: 0 0 20px;
   display: inline-block;
   vertical-align: middle;
@@ -552,7 +552,7 @@ textarea {
 }
 
 .services-block .holder:hover .icon {
-  box-shadow: inset 0 0 0 30px #ad61a7;
+  box-shadow: inset 0 0 0 30px #1120f3;
   color: #fff;
   font-size: 18px;
 }
@@ -584,7 +584,7 @@ textarea {
 
 .works-block .portfoliolist>div h3 {
   margin: 0 0 5px;
-  color: #ad61a7;
+  color: #1120f3;
   font-size: 16px;
 }
 
@@ -620,8 +620,8 @@ textarea {
 }
 
 .works-block .pagination .page-item.active .page-link {
-  background: #ad61a7;
-  border-color: #ad61a7;
+  background: #1120f3;
+  border-color: #1120f3;
 }
 
 .works-block .pagination .page-item .page-link {
@@ -661,7 +661,7 @@ textarea {
   transition: all 0.3s linear;
   -webkit-transition: all 0.2s linear;
   vertical-align: middle;
-  background: #ad61a7;
+  background: #1120f3;
   opacity: 0;
 }
 
@@ -742,7 +742,7 @@ textarea {
 }
 
 .testimonials-block .carousel-indicators .active {
-  background: #ad61a7;
+  background: #1120f3;
 }
 
 .pricing-block .row {
@@ -783,7 +783,7 @@ textarea {
 
 .pricing-block div[class*="col"]:nth-child(2) .heading {
   padding: 30px 20px;
-  background: #ad61a7;
+  background: #1120f3;
   color: #fff;
 }
 
@@ -793,7 +793,7 @@ textarea {
   position: absolute;
   top: 40px;
   left: 40px;
-  background: #ad61a7;
+  background: #1120f3;
   color: #fff;
   padding: 5px 10px;
   transform: translateX(-50%) translateY(-50%) rotate(-45deg);
@@ -874,12 +874,12 @@ textarea {
 
 .blog-block .card-title {
   margin: 0 0 10px;
-  color: #ad61a7;
+  color: #1120f3;
   font-size: 22px;
 }
 
 .blog-block .card-title a:hover {
-  color: #ad61a7;
+  color: #1120f3;
 }
 
 .blog-block .meta {
@@ -902,7 +902,7 @@ textarea {
 }
 
 .blog-block .meta .category a:hover {
-  color: #ad61a7;
+  color: #1120f3;
 }
 
 .contact-block {
@@ -949,7 +949,7 @@ textarea {
   display: block;
   font-size: 40px;
   margin: 0 0 15px;
-  color: #ad61a7;
+  color: #1120f3;
 }
 
 @media only screen and (min-width: 1025px) {

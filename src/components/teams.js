@@ -48,50 +48,7 @@ const teamsData = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.",
   },
-  {
-    id: 5,
-    image: require("../assets/images/team5.jpg"),
-    fbLink: "https://www.facebook.com",
-    twitterLink: "https://www.twitter.com",
-    linkedinLink: "https://www.linkedin.com",
-    name: "Sophia Pitt",
-    designation: "Developer",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.",
-  },
-  {
-    id: 6,
-    image: require("../assets/images/team6.jpg"),
-    fbLink: "https://www.facebook.com",
-    twitterLink: "https://www.twitter.com",
-    linkedinLink: "https://www.linkedin.com",
-    name: "Taylor Lopez",
-    designation: "Developer",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.",
-  },
-  {
-    id: 7,
-    image: require("../assets/images/team7.jpg"),
-    fbLink: "https://www.facebook.com",
-    twitterLink: "https://www.twitter.com",
-    linkedinLink: "https://www.linkedin.com",
-    name: "Ryan Giggs",
-    designation: "Content Writer",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.",
-  },
-  {
-    id: 8,
-    image: require("../assets/images/team8.jpg"),
-    fbLink: "https://www.facebook.com",
-    twitterLink: "https://www.twitter.com",
-    linkedinLink: "https://www.linkedin.com",
-    name: "David Smith",
-    designation: "SEO Expert",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.",
-  },
+  
 ];
 
 export default function AppTeam() {

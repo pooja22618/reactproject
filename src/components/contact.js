@@ -53,7 +53,7 @@ export default function AppContact() {
       <div className="google-map">
         <iframe
           title="map"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14361.66490499667!2d85.78260084557796!3d25.855774946462084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed90eea5571da3%3A0x3ea995ba235a88fa!2sProfessor%20Colony%2C%20Bahadurpur%2C%20Bihar%20848101!5e0!3m2!1sen!2sin!4v1748607643234!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57302.59508139689!2d85.86197822203246!3d26.15070213677754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39edb835434acdb1%3A0x70ec31d04822699e!2sDarbhanga%2C%20Bihar!5e0!3m2!1sen!2sin!4v1748669148192!5m2!1sen!2sin"
           allowFullScreen=""
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
@@ -64,15 +64,15 @@ export default function AppContact() {
           <ul>
             <li>
               <i className="fas fa-envelope"></i>
-              poojaroy07102003@gmail.com
+              ketanpaswan53@gmail.com
             </li>
             <li>
               <i className="fas fa-phone"></i>
-              9304836846
+              9771735011
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>
-              samastipur, bihar
+              Darbhanga, bihar
             </li>
           </ul>
         </div>
